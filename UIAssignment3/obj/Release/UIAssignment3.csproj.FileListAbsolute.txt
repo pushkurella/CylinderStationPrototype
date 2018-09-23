@@ -1,0 +1,14 @@
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\bin\Release\UIAssignment3.exe.config
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\bin\Release\UIAssignment3.exe
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\bin\Release\UIAssignment3.pdb
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\bin\Release\Interop.WMPLib.dll
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\Interop.WMPLib.dll
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.csproj.ResolveComReference.cache
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.Form1.resources
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.Properties.Resources.resources
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.csproj.GenerateResource.Cache
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.exe
+C:\Users\Pushpakkurellae\source\repos\UIAssignment3\UIAssignment3\obj\Release\UIAssignment3.pdb
